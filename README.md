@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 自我介绍
+- 姓名：林梓琦
+- 班级：18级软件工程3班
+- 籍贯：广东揭阳
+- 联系方式：19924339851
